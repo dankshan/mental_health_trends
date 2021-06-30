@@ -1,9 +1,15 @@
 Version: 1.0
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 RestoreWorkspace: No
 SaveWorkspace: No
 AlwaysSaveHistory: No
+=======
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+>>>>>>> 459d68e205c4ee22ca5cecb39e92314119aa18a5
 =======
 RestoreWorkspace: Default
 SaveWorkspace: Default
